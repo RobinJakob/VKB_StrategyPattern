@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\bin\Debug\VKB_StrategyPattern.exe.config
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\bin\Debug\VKB_StrategyPattern.exe
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\bin\Debug\VKB_StrategyPattern.pdb
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.Properties.Resources.resources
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.exe
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.pdb
