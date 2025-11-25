@@ -7,3 +7,5 @@ C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\ob
 C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.exe
 C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.pdb
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.VKB.resources
+C:\Users\User\source\repos\RobinJakob\VKB_StrategyPattern\VKB_StrategyPattern\obj\Debug\VKB_StrategyPattern.Produktauswahl.resources
