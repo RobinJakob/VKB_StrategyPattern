@@ -52,25 +52,25 @@
     <Compile Include="Strategies\FreeShippingThresholdStrategy.cs" />
     <Compile Include="Strategies\IShippingStrategy.cs" />
     <Compile Include="Strategies\StandardShippingStrategy.cs" />
-    <Compile Include="VKB.cs">
+    <Compile Include="Forms\VKB.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VKB.Designer.cs">
+    <Compile Include="Forms\VKB.Designer.cs">
       <DependentUpon>VKB.cs</DependentUpon>
     </Compile>
     <Compile Include="Models\Order.cs" />
-    <Compile Include="Produktauswahl.cs">
+    <Compile Include="Forms\Produktauswahl.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Produktauswahl.Designer.cs">
+    <Compile Include="Forms\Produktauswahl.Designer.cs">
       <DependentUpon>Produktauswahl.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Produktauswahl.resx">
+    <EmbeddedResource Include="Forms\Produktauswahl.resx">
       <DependentUpon>Produktauswahl.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VKB.resx">
+    <EmbeddedResource Include="Forms\VKB.resx">
       <DependentUpon>VKB.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
