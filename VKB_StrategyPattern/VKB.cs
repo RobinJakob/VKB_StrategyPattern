@@ -22,12 +22,12 @@ namespace VKB_StrategyPattern
             selectedProduct = Controller.GetSelectedProduct();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        private void CalculateButton_Click(object sender, EventArgs e)
         {
 
         }

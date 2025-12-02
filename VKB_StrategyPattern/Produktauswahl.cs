@@ -21,13 +21,13 @@ namespace VKB_StrategyPattern
             InitializeComponent();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void continueButton_Click(object sender, EventArgs e)
         {
             if (selectedProduct == null)
             {
                 MessageBox.Show("Bitte wählen Sie ein Produkt aus.", "Fehler", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
-            } 
+            }
             else
             {
                 Controller.SetSelectedProduct(selectedProduct);
