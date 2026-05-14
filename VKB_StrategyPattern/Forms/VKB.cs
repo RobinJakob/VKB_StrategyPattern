@@ -20,14 +20,31 @@ namespace VKB_StrategyPattern
         {
             InitializeComponent();
             selectedProduct = Controller.GetSelectedProduct();
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
+            if (selectedProduct != null)
+            {
+                if (selectedProduct.price < 100m)
+                {
+                    radioButton1.Text = "Standardversand 5,00€";
+                }
+                else
+                {
+                    radioButton1.Text = "Standardversand 0,00€";
+                }
+                radioButton2.Text = "Expressversand 2€/kg";
+            }
         }
 
         private void CalculateButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
 
         }

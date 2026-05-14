@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|c:\\users\\user\\source\\repos\\robinjakob\\vkb_strategypattern\\vkb_strategypattern\\forms\\produktauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\forms\\produktauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|c:\\users\\user\\source\\repos\\robinjakob\\vkb_strategypattern\\vkb_strategypattern\\forms\\vkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\forms\\vkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|c:\\users\\user\\source\\repos\\robinjakob\\vkb_strategypattern\\vkb_strategypattern\\forms\\vkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\forms\\vkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\forms\\produktauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\forms\\produktauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\strategies\\freeshippingthresholdstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\strategies\\freeshippingthresholdstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|c:\\users\\user\\source\\repos\\robinjakob\\vkb_strategypattern\\vkb_strategypattern\\forms\\produktauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\forms\\produktauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\strategies\\expressshippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\strategies\\expressshippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\forms\\vkb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\forms\\vkb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\strategies\\standardshippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +43,16 @@
       "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\strategies\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\forms\\produktauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\forms\\produktauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\vkb_strategypattern\\forms\\vkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1748CFA-A0E3-4730-ACD1-6C1B65817CD8}|VKB_StrategyPattern\\VKB_StrategyPattern.csproj|solutionrelative:vkb_strategypattern\\forms\\vkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Produktauswahl.cs [Entwurf]",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Forms\\Produktauswahl.cs",
               "RelativeDocumentMoniker": "VKB_StrategyPattern\\Forms\\Produktauswahl.cs",
@@ -70,26 +74,24 @@
               "RelativeToolTip": "VKB_StrategyPattern\\Forms\\Produktauswahl.cs [Entwurf]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T08:21:55.848Z",
-              "IsPinned": true,
-              "EditorCaption": " [Entwurf]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Produktauswahl.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Forms\\Produktauswahl.cs",
               "RelativeDocumentMoniker": "VKB_StrategyPattern\\Forms\\Produktauswahl.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Forms\\Produktauswahl.cs",
               "RelativeToolTip": "VKB_StrategyPattern\\Forms\\Produktauswahl.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwBwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T13:16:32.578Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "VKB.cs [Entwurf]",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Forms\\VKB.cs",
               "RelativeDocumentMoniker": "VKB_StrategyPattern\\Forms\\VKB.cs",
@@ -102,17 +104,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "VKB.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Forms\\VKB.cs",
               "RelativeDocumentMoniker": "VKB_StrategyPattern\\Forms\\VKB.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Forms\\VKB.cs",
               "RelativeToolTip": "VKB_StrategyPattern\\Forms\\VKB.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T07:39:26.204Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -120,28 +121,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "VKB_StrategyPattern\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Models\\Product.cs",
+              "RelativeToolTip": "VKB_StrategyPattern\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:33:01.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "VKB_StrategyPattern\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Models\\Order.cs",
+              "RelativeToolTip": "VKB_StrategyPattern\\Models\\Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:39:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "VKB_StrategyPattern\\Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Controllers\\Controller.cs",
+              "RelativeToolTip": "VKB_StrategyPattern\\Controllers\\Controller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:36:41.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FreeShippingThresholdStrategy.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Strategies\\FreeShippingThresholdStrategy.cs",
               "RelativeDocumentMoniker": "VKB_StrategyPattern\\Strategies\\FreeShippingThresholdStrategy.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Strategies\\FreeShippingThresholdStrategy.cs",
               "RelativeToolTip": "VKB_StrategyPattern\\Strategies\\FreeShippingThresholdStrategy.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:28:13.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Program.cs",
-              "RelativeDocumentMoniker": "VKB_StrategyPattern\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Program.cs",
-              "RelativeToolTip": "VKB_StrategyPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T07:27:02.899Z"
+              "WhenOpened": "2025-11-25T13:28:13.254Z"
             },
             {
               "$type": "Document",
@@ -158,18 +182,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "VKB.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Forms\\VKB.Designer.cs",
+              "RelativeDocumentMoniker": "VKB_StrategyPattern\\Forms\\VKB.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Forms\\VKB.Designer.cs",
+              "RelativeToolTip": "VKB_StrategyPattern\\Forms\\VKB.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:02:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "StandardShippingStrategy.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Strategies\\StandardShippingStrategy.cs",
               "RelativeDocumentMoniker": "VKB_StrategyPattern\\Strategies\\StandardShippingStrategy.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Strategies\\StandardShippingStrategy.cs",
               "RelativeToolTip": "VKB_StrategyPattern\\Strategies\\StandardShippingStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T13:44:00.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IShippingStrategy.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Strategies\\IShippingStrategy.cs",
               "RelativeDocumentMoniker": "VKB_StrategyPattern\\Strategies\\IShippingStrategy.cs",
@@ -181,39 +217,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Controller.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Controllers\\Controller.cs",
-              "RelativeDocumentMoniker": "VKB_StrategyPattern\\Controllers\\Controller.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Controllers\\Controller.cs",
-              "RelativeToolTip": "VKB_StrategyPattern\\Controllers\\Controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:36:41.96Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "VKB_StrategyPattern\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Models\\Product.cs",
-              "RelativeToolTip": "VKB_StrategyPattern\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "VKB_StrategyPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Program.cs",
+              "RelativeToolTip": "VKB_StrategyPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:33:01.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "VKB_StrategyPattern\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\RobinJakob\\VKB_StrategyPattern\\VKB_StrategyPattern\\Models\\Order.cs",
-              "RelativeToolTip": "VKB_StrategyPattern\\Models\\Order.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T07:39:23.767Z"
+              "WhenOpened": "2025-12-02T09:03:15.931Z"
             }
           ]
         }
